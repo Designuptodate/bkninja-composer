@@ -1,0 +1,13 @@
+Change Log
+
+1.1: Added Required field
+1.2: Fixed Category_1, Category_2, Category_3, Category_4 option. All CSS, JS are already integrated
+1.2.1.
+1.3: Change Max Modules from 50 to 100.
+     Change the Condition of loop, not using break but using continue
+
+1.4: Insert delete all before update pagebuilder 
+
+2.0: Fixed Gutenberg Issue
+
+2.2: Fix CSS issue, undefined variable
